@@ -2,7 +2,7 @@
 
 I am a passionate Computer Science Students at Tunku Abdul Rahman University of Management and Technology, driven by a curiosity for technology and love to learn new technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-<!-- ![WhiteShadow295's Stats](https://github-readme-stats.vercel.app/api?username=WhiteShadow295&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
+<!-- ![WhiteShadow295's Stats](https://github-readme-stats.vercel.app/api?username=WhiteShadow295&theme=vue-dark&show_icons=true&hide_border=true) -->
 
 
 ## About Me:
