@@ -11,7 +11,7 @@ I am a passionate Computer Science Students at Tunku Abdul Rahman University of 
 - 🌱 I’m currently learning self-sovereign identity using Hyperledger Aries.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,dart,nodejs,python,java,solidity,aws,docker)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,dart,nodejs,python,java,solidity,aws,docker)
 
 ## 🌱 Currently Exploring
 
@@ -27,8 +27,9 @@ I am a passionate Computer Science Students at Tunku Abdul Rahman University of 
 
 ## 📬 Get in Touch
 
-- Connect with me via:
-    - [Linkedin](https://www.linkedin.com/in/wei-jie-wong-11b366237)
+- Connect with me via: 
+<br><br>
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/wei-jie-wong-11b366237)
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
