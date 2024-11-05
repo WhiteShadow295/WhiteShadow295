@@ -5,29 +5,54 @@ I am a passionate Computer Science Students at Tunku Abdul Rahman University of 
 <!-- ![WhiteShadow295's Stats](https://github-readme-stats.vercel.app/api?username=WhiteShadow295&theme=vue-dark&show_icons=true&hide_border=true) -->
 
 
-## About Me:
+## About Me
 
 - 🔭 I’m currently pursuing my bachelor degree of computer science in data science.
 - 🌱 I’m currently learning self-sovereign identity using Hyperledger Aries.
 
 ## Tech Stack
-### Frontend Stack
-![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,dart,java)
+<div style="display: flex; justify-content: space-between">
+  <div style="width: 48%;">
 
-### Backend Stack
-![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,solidity,firebase,java)
+  ### Frontend Stack
+  ![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,dart,java)
+  </div>
 
-### Data Science
-![My Skills](https://skillicons.dev/icons?i=python,anaconda)
+  <div style="width: 48%;">
 
-### Internet of Things
-![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,python)
+  ### Backend Stack
+  ![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,solidity,firebase,java)
+  </div>
+</div>
 
-### Git
-![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)
+<div style="display: flex; justify-content: space-between">
+  <div style="width: 48%;">
 
-### Others 
-![My Skills](https://skillicons.dev/icons?i=c,aws,docker,npm,postman,linux,ubuntu,bash)
+  ### Data Science
+  ![My Skills](https://skillicons.dev/icons?i=python,anaconda)
+
+  </div>
+
+  <div style="width: 48%;">
+
+  ### Internet of Things
+  ![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,python)
+  </div>
+</div>
+
+<div style="display: flex; justify-content: space-between">
+  <div style="width: 48%;">
+
+  ### Git
+  ![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)
+  </div>
+
+  <div style="width: 48%;">
+
+  ### Others 
+  ![My Skills](https://skillicons.dev/icons?i=c,aws,docker,npm,postman,linux,ubuntu,bash)
+  </div>
+</div>
 
 ## 🌱 Currently Exploring
 
