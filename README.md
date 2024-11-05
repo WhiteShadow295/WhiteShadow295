@@ -11,48 +11,15 @@ I am a passionate Computer Science Students at Tunku Abdul Rahman University of 
 - 🌱 I’m currently learning self-sovereign identity using Hyperledger Aries.
 
 ## Tech Stack
-<div style="display: flex; justify-content: space-between">
-  <div style="width: 48%;">
 
-  ### Frontend Stack
-  ![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,dart,java)
-  </div>
-
-  <div style="width: 48%;">
-
-  ### Backend Stack
-  ![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,solidity,firebase,java)
-  </div>
-</div>
-
-<div style="display: flex; justify-content: space-between">
-  <div style="width: 48%;">
-
-  ### Data Science
-  ![My Skills](https://skillicons.dev/icons?i=python,anaconda)
-
-  </div>
-
-  <div style="width: 48%;">
-
-  ### Internet of Things
-  ![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,python)
-  </div>
-</div>
-
-<div style="display: flex; justify-content: space-between">
-  <div style="width: 48%;">
-
-  ### Git
-  ![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)
-  </div>
-
-  <div style="width: 48%;">
-
-  ### Others 
-  ![My Skills](https://skillicons.dev/icons?i=c,aws,docker,npm,postman,linux,ubuntu,bash)
-  </div>
-</div>
+| Category            | Tech Stack                                                                              |
+| :---                | :---                                                                                    |
+| Frontend            | ![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,dart,java)              |
+| Backend             | ![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,solidity,firebase,java)    |
+| Data Science        | ![My Skills](https://skillicons.dev/icons?i=python,anaconda)                            |
+| Internet of Things  | ![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,python)                 |
+| Git                 | ![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)                          |
+| Others              | ![My Skills](https://skillicons.dev/icons?i=c,aws,docker,npm,postman,linux,ubuntu,bash) |
 
 ## 🌱 Currently Exploring
 
