@@ -11,7 +11,23 @@ I am a passionate Computer Science Students at Tunku Abdul Rahman University of 
 - 🌱 I’m currently learning self-sovereign identity using Hyperledger Aries.
 
 ## Tech Stack
-![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,dart,nodejs,python,java,solidity,aws,docker)
+### Frontend Stack
+![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,dart,java)
+
+### Backend Stack
+![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,solidity,firebase,java)
+
+### Data Science
+![My Skills](https://skillicons.dev/icons?i=python,anaconda)
+
+### Internet of Things
+![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,python)
+
+### Git
+![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)
+
+### Others 
+![My Skills](https://skillicons.dev/icons?i=c,aws,docker,npm,postman,linux,ubuntu,bash)
 
 ## 🌱 Currently Exploring
 
