@@ -14,7 +14,7 @@ I am a passionate Computer Science Students at Tunku Abdul Rahman University of 
 
 | Category            | Tech Stack                                                                              |
 | :---                | :---                                                                                    |
-| Frontend            | ![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,dart,java)              |
+| Frontend            | ![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,dart,java,python)       |
 | Backend             | ![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,solidity,firebase,java)    |
 | Data Science        | ![My Skills](https://skillicons.dev/icons?i=python,anaconda)                            |
 | Internet of Things  | ![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,python)                 |
